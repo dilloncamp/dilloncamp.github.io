@@ -1,4 +1,4 @@
-_site
-.sass-cache
-.DS_Store
-_vendor
+.pug-cache
+Gemfile.lock
+dist
+node_modules
