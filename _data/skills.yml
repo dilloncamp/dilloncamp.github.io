@@ -1,12 +1,10 @@
 # Skills
 # Donut design
-- skill: Donut design
-  description: Sprinkle art, icing design, eclair management, taste testing, donut/coffee pairing research
+- skill: Data Analysis
+  description: Structured Query Language (SQL), MySQL, Teradata, R, Mastery in Excel, some Python, some C&plus;&plus;, some Statistical Analysis System (SAS), Stata, FactSet, Bloomberg
+  
+- skill: Data Visualization
+  description: R, Tableau, Mastery in Word, Mastery in PowerPoint, Adobe Illustrator, LaTeX
 
-# Craft beer brewing
-- skill: Craft beer brewing
-  description: Hops inspection, brew testing, distribution management, bottle label design, festival and event management
-
-# Family leadership
-- skill: Family leadership
-  description: Bread winning, conflict resolution, couch inspection, TV longevity testing
+- skill: Languages
+  description: Native English speaker, basic Spanish

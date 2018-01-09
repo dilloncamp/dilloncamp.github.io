@@ -1,14 +1,16 @@
 # Degree
-- degree: Associates Degree, Business Management
-  uni: Springfield College
-  year: 1984 &mdash; 1986
+- degree: Master's Degree, Economics
+  uni: Baylor University
+  year: 2017
   awards:
-    - award: Quickest to fall asleep
-    - award: Fastest donut eater
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: GPA&colon; 3.96/4.0
+    - award: Full Tuition Graduate Scholarship
+  summary:
 
-- degree: High School Diploma
-  uni: Springfield High
-  year: 1984
-  award: Least likely to graduate College
-  summary: You can choose to have either a single or multiple awards
+- degree: Bachelor's Degree, Finance
+  uni: Baylor University
+  year: 2014
+  awards: 
+    - award: GPA&colon; 3.98/4.0
+    - award: Honors&colon; National Merit Scholar, Dean’s List (2010-2014), Baylor University Regents’ Gold Scholarship (Full Tuition), Beta Gamma Sigma Business Honor Society, Burt Kenneth Geisler Endowed Scholarship Fund in Business, Glennis McCrary Goodrich International Scholarship, Brazos Higher Education Scholarship
+  summary:
