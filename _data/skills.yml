@@ -1,10 +1,10 @@
 # Skills
 # Donut design
 - skill: Data Analysis
-  description: Structured Query Language (SQL), MySQL, Teradata, R, Mastery in Excel, some Python, some C&plus;&plus;, some Statistical Analysis System (SAS), Stata, FactSet, Bloomberg
+  description: Python, R, Structured Query Language (SQL), MySQL, Teradata, Oracle, Stata
   
 - skill: Data Visualization
-  description: R, Tableau, Mastery in Word, Mastery in PowerPoint, Adobe Illustrator, LaTeX
+  description: Jupyter, RMarkdown, Tableau, Adobe Illustrator, LaTeX
 
 - skill: Languages
   description: Native English speaker, basic Spanish
