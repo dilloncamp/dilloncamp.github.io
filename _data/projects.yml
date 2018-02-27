@@ -6,7 +6,7 @@
   #role: 
   #duration:
   url: "/projects/indeed.html"
-  description: Natural language processing (NLP) in R to classify Indeed.com job listings as Data Scientist or Data Analyst using naïve bayes, KNN, random forest, LASSO, and ridge regression
+  description: Natural language processing (NLP) in R to classify Indeed.com job listings as Data Scientist or Data Analyst using Naive Bayes, KNN, Random Forest, LASSO, and Ridge Regression
 
 #Springfield Donut Eater's User Group
 - project: TrumpFinder
