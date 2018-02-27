@@ -2,7 +2,7 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # donutfinder.io
-- project: Indeed.com NLP Text Classification Using R test
+- project: Indeed.com NLP Text Classification Using R
   #role: 
   #duration:
   url: "/projects/indeed.html"
