@@ -2,10 +2,10 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # donutfinder.io
-- project: <a href = "/projects/indeed.html">Indeed.com NLP Text Classification Using R test</a>
+- project: Indeed.com NLP Text Classification Using R test
   #role: 
   #duration:
-  #url: "#"
+  url: "/projects/indeed.html"
   description: Natural language processing (NLP) in R to classify Indeed.com job listings as Data Scientist or Data Analyst using naïve bayes, KNN, random forest, LASSO, and ridge regression
 
 #Springfield Donut Eater's User Group
