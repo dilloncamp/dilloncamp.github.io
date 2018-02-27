@@ -3,16 +3,28 @@
 
 # donutfinder.io
 - project: <a href = "/projects/indeed.html">Indeed.com NLP Text Classification Using R</a>
+  #role: 
+  #duration:
+  #url: "#"
   description: Natural language processing (NLP) in R to classify Indeed.com job listings as Data Scientist or Data Analyst using naïve bayes, KNN, random forest, LASSO, and ridge regression
 
 #Springfield Donut Eater's User Group
 - project: TrumpFinder
+  #role: 
+  #duration:
+  #url: "#"
   description: Image classification in Python with Keras using convolutional neural network (CNN) and transfer learning to classify Instagram photos as containing Donald Trump or not
   
 #Springfield Donut Eater's User Group
 - project: CopyChat
+  #role: 
+  #duration:
+  #url: "#"
   description: Custom Snapchat filter iOS app – use Python, dlib, and OpenCV to detect facial landmarks
   
 #Springfield Donut Eater's User Group
 - project: What are my options?
+  #role: 
+  #duration:
+  #url: "#"
   description: Options price prediction and arbitrage using Python and scikit-learn
