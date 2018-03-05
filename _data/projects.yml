@@ -9,11 +9,11 @@
   description: Natural language processing (NLP) in R to classify Indeed.com job listings as Data Scientist or Data Analyst using Naive Bayes, KNN, Random Forest, LASSO, and Ridge Regression
 
 #Springfield Donut Eater's User Group
-- project: TrumpFinder
+- project: Where's Waldo?
   #role: 
   #duration:
   #url: "#"
-  description: Image classification in Python with Keras using convolutional neural network (CNN) and transfer learning to classify Instagram photos as containing Donald Trump or not
+  description: Image classification in Python with Keras using convolutional neural network (CNN) and transfer learning to find Waldo
   
 #Springfield Donut Eater's User Group
 - project: CopyChat
