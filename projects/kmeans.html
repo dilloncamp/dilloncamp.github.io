@@ -252,7 +252,7 @@ div.tocify {
 
 </div>
 <p>First, I load all relevant packages:</p>
-<pre><code>from skimage import io
+<pre class="python"><code>from skimage import io
 from sklearn.cluster import KMeans
 import numpy as np
 import matplotlib.pyplot as plt
@@ -260,13 +260,13 @@ import matplotlib.image as image</code></pre>
 </div>
 <div id="load-image" class="section level2">
 <h2><span class="header-section-number">2.2</span> Load Image</h2>
-<pre><code>img = io.imread('bird_small.png')
+<pre class="python"><code>img = io.imread('bird_small.png')
 img_r = (img / 255.0).reshape(-1,3)</code></pre>
 <p>I reshape the image into a 16384x3 array so that each row represents a pixel and the three columns represent the Red, Green, and Blue values.</p>
 </div>
 <div id="run-k-means" class="section level2">
 <h2><span class="header-section-number">2.3</span> Run K-means</h2>
-<pre><code>#Fit K-means on resized image. n_clusters is the desired number of colors 
+<pre class="python"><code>#Fit K-means on resized image. n_clusters is the desired number of colors 
 k_colors = KMeans(n_clusters=128).fit(img_r)
 #Assign colors to pixels based on their cluster center
 #Each row in k_colors.cluster_centers_ represents the RGB value of a cluster centroid
@@ -281,7 +281,7 @@ image.imsave('img128.png',img128)</code></pre>
 <div id="results" class="section level2">
 <h2><span class="header-section-number">2.4</span> Results</h2>
 <p>The following is a shiny web app I created in R to visualize how the image changes as the number of clusters fed to the K-means algorithm changes:</p>
-<iframe src="https://dilloncamp.shinyapps.io/kmeanschart/" width="850" height="550px">
+<iframe src="https://dilloncamp.shinyapps.io/kmeanschart/?showcase=0" width="800" height="550px">
 </iframe>
 </div>
 </div>
