@@ -2,12 +2,36 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # donutfinder.io
-- project: Indeed.com NLP Text Classification Using R
+- project: Natural Language Processing: Indeed.com Text Classification Using R
   #role: 
   #duration:
   url: "/projects/indeed.html"
   description: Natural language processing (NLP) in R to classify Indeed.com job listings as Data Scientist or Data Analyst using Naive Bayes, KNN, Random Forest, LASSO, and Ridge Regression
 
+  # donutfinder.io
+- project: Supervised machine learning: Use support vector machine to classify emails as ‘spam’ or ‘not’
+  #role: 
+  #duration:
+  url: "/projects/spam.html"
+  #description: Natural language processing (NLP) in R to classify Indeed.com job listings as Data Scientist or Data Analyst using Naive Bayes, KNN, Random Forest, LASSO, and Ridge Regression
+  
+  
+  
+# donutfinder.io
+- project: Unsupervised machine learning: K-means clustering image compression
+  #role: 
+  #duration:
+  url: "/projects/kmeans.html"
+  #description: Natural language processing (NLP) in R to classify Indeed.com job listings as Data Scientist or Data Analyst using Naive Bayes, KNN, Random Forest, LASSO, and Ridge Regression
+  
+  
+# donutfinder.io
+- project: Dimensionality reduction: Principal component analysis (PCA) image compression
+  #role: 
+  #duration:
+  url: "/projects/pca.html"
+  #description: Natural language processing (NLP) in R to classify Indeed.com job listings as Data Scientist or Data Analyst using Naive Bayes, KNN, Random Forest, LASSO, and Ridge Regression
+  
 #Springfield Donut Eater's User Group
 - project: Where's Waldo?
   #role: 
