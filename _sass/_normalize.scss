@@ -90,6 +90,7 @@ template {
 
 a {
   background-color: transparent;
+  text-decoration: none;
 }
 
 /**
@@ -97,13 +98,16 @@ a {
  * active/hover state.
  */
  
-a:link {
-    text-decoration: none;
-}
 
 a:active,
 a:hover {
   outline: 0;
+}
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+	outline: 0;
 }
 
 /* Text-level semantics
