@@ -2,6 +2,14 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # donutfinder.io
+- project: Credit Card Fraud Detection in Python using Google Compute
+  #role: 
+  #duration:
+  url: "/projects/creditcard.html"
+  description: I use Python on a Google Compute virtual machine to analyze anonymized credit card transactions and successfully detect fraud with an F1 score of 85.68 and an accuracy of 99.96% (compared to a baseline accuracy of 99.83% when predicting that no transactions are fraudulent).
+
+
+# donutfinder.io
 - project: Natural Language Processing&colon; Indeed.com Text Classification Using R
   #role: 
   #duration:
