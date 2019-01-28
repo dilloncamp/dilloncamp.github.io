@@ -1,9 +1,21 @@
 # Jobs
+
+
+#T-Mobile
+- company: T-Mobile
+  position: Associate Engineer
+  duration: June 2018 &mdash; Present
+  summary: <ul class="resume-item-list"><li>Create and automate company-wide customer scoring system using Alteryx and Python to rank over 40 million customers for new product offerings&colon;</li><ul class="resume-item-list"><li>Clean and combine data from multiple sources</li><li>Use machine learning to determine customer locations</li><li>Coordinate with other departments to determine most profitable target customers</li></ul><li>NPPI All Star of the Month &mdash; November 2018</li></ul>
+
+
 # Springfield Nuclear Power Plant
-- company: PBN Data
-  position: Founder and CEO
-  duration: January 2018 &mdash; Present
-  summary: <ul class="resume-item-list"><li><strong>Establish business:</strong> develop business plan and marketing strategy.</li><li>Implement and maintain company website, acquire company phone number and email.</li><li>Aggressively seek out new clients by following marketing strategy.</li><li>Analyze data and financial statements to create data visualizations and reports for clients.</li></ul>
+- company: Freelance
+  position: Data Scientist
+  duration: August 2017 &mdash; June 2018
+  summary: Create PBN Data – data consulting firm<br>
+    Develop independent data analytics experiments/projects using R and Python&colon;
+    <ul class="resume-item-list"><a href="/projects/creditcard.html"><li>Credit card fraud detection using XGBoost, Random Forest, Naïve Bayes, and Logistic Regression and hyperparameter optimization on a Google Compute 96 core machine</li></a><a href="/projects/kmeans.html"><li>Unsupervised machine learning&colon; K&dash;means clustering image compression</li></a><a href="/projects/pca.html"><li>Dimensionality reduction&colon; Principal component analysis (PCA) image compression</li></a><a href="/projects/spam.html"><li>Supervised machine learning&colon; Use support vector machine to classify emails as ‘spam’ or ‘not’</li></a><a href="/projects/indeed.html"><li>Natural language processing (NLP)&colon; Classify Indeed.com job listings</li></a></ul>
+ 
 
 # Windmill Crank Operator
 - company: Baylor University
