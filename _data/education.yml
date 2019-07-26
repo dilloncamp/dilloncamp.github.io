@@ -1,16 +1,18 @@
-# Degree
-- degree: Master's Degree, Economics
-  uni: Baylor University
-  year: 2017
-  awards:
-    - award: GPA&colon; 3.96/4.0
-    - award: Full Tuition Graduate Scholarship
-  summary:
-
-- degree: Bachelor's Degree, Finance
-  uni: Baylor University
-  year: 2014
-  awards: 
-    - award: GPA&colon; 3.98/4.0
-    - award: Honors&colon; National Merit Scholar, Dean’s List (2010-2014), Baylor University Regents’ Gold Scholarship (Full Tuition), Beta Gamma Sigma Business Honor Society, Burt Kenneth Geisler Endowed Scholarship Fund in Business, Glennis McCrary Goodrich International Scholarship, Brazos Higher Education Scholarship
-  summary:
+- layout: lefteducation
+  name: Baylor University
+  dates: 2017
+  qualification: Master's Degree, Economics
+  quote:
+  description: | # this will include new lines to allow paragraphs
+   • Full Scholarship, Dean’s List
+   
+   • GPA: 3.96 / 4.0
+- layout: lefteducation
+  name: Baylor University
+  dates: 2014
+  qualification: BBA, Finance
+  quote:
+  description: | # this will include new lines to allow paragraphs
+   • National Merit Scholar – Full Scholarship, Dean’s List, Beta Gamma Sigma
+   
+   • GPA: 3.98 / 4.0

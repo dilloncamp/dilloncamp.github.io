@@ -1,31 +1,41 @@
-# Jobs
+- layout: leftexperience
+  company: T-Mobile
+  link: t-mobile.com
+  job_title: Cybersecurity Engineer
+  dates: February 2019 - Present
+  quote: >
+   Solving cybersecurity problems by implementing innovative machine-learning and data science techniques.
+  description: | # this will include new lines to allow paragraphs
+    • Collaborate to create and maintain Cybersecurity Data Platform – revolutionary platform for logging and responding to security events:
 
+       &emsp;&emsp;&emsp;&emsp; &mdash; Reduce security event search time from weeks to minutes
+       
+       &emsp;&emsp;&emsp;&emsp; &mdash; Lead log ingestion and create data flows using NiFi and MiNiFi
+       
+       &emsp;&emsp;&emsp;&emsp; &mdash; Implement machine learning to cluster events and identify threats
+       
+       &emsp;&emsp;&emsp;&emsp; &mdash; Enrich existing data to make it better (feature engineering)
+       
+       &emsp;&emsp;&emsp;&emsp; &mdash; Create monitoring using Grafana, Prometheus, and Pager Duty
+       
+       &emsp;&emsp;&emsp;&emsp; &mdash; Create Slack chatbot to aid in monitoring
+       
 
-#T-Mobile
-- company: T-Mobile
-  position: Associate Engineer
-  duration: June 2018 &mdash; Present
-  summary: <ul class="resume-item-list"><li>Create and automate company-wide customer scoring system using Alteryx and Python to rank over 40 million customers for new product offerings&colon;</li><ul class="resume-item-list"><li>Clean and combine data from multiple sources</li><li>Use machine learning to determine customer locations</li><li>Coordinate with other departments to determine most profitable target customers</li></ul><li>NPPI All Star of the Month &mdash; November 2018</li></ul>
-
-
-# Springfield Nuclear Power Plant
-- company: Freelance
-  position: Data Scientist
-  duration: August 2017 &mdash; June 2018
-  summary: Create PBN Data – data consulting firm<br>
-    Develop independent data analytics experiments/projects using R and Python&colon;
-    <ul class="resume-item-list"><a href="/projects/creditcard.html"><li>Credit card fraud detection using XGBoost, Random Forest, Naïve Bayes, and Logistic Regression and hyperparameter optimization on a Google Compute 96 core machine</li></a><a href="/projects/kmeans.html"><li>Unsupervised machine learning&colon; K&dash;means clustering image compression</li></a><a href="/projects/pca.html"><li>Dimensionality reduction&colon; Principal component analysis (PCA) image compression</li></a><a href="/projects/spam.html"><li>Supervised machine learning&colon; Use support vector machine to classify emails as ‘spam’ or ‘not’</li></a><a href="/projects/indeed.html"><li>Natural language processing (NLP)&colon; Classify Indeed.com job listings</li></a></ul>
- 
-
-# Windmill Crank Operator
-- company: Baylor University
-  position: Master's Thesis
-  duration:  August, 2016 &mdash; August, 2017
-  summary: In-depth economic data analysis and research report required for graduation. Studied the relationship between payday lending laws and personal bankruptcy&colon;<ul class="resume-item-list"><li>Collected and managed multiple comprehensive datasets on payday lending, bankruptcy filings, and state-level economic metrics such as gross state product and unemployment rates.</li><li>Utilized Excel, R, and Stata to analyze data using differences-in-differences approach.</li><li>Communication and Design&colon; Created custom charts and tables using Tableau and Adobe Illustrator to visually demonstrate that the prohibition of payday loans decreases personal bankruptcy by approximately 15.6&percnt;.</li></ul>
-
-
-# Front Desk Attendant
-- company: Baylor University Practicum in Portfolio Management
-  position: Health Care Analyst
-  duration:   January, 2013  &mdash; May, 2013
-  summary: <ul class="resume-item-list"><li>Successfully managed $5.2MM fund in a team environment. Collaborated with 11 other students to determine portfolio composition.</li><li>Studied and utilized Bloomberg and FactSet analytic software to perform fundamental financial analysis.</li></ul>
+- layout: leftexperience
+  company: T-Mobile
+  link: t-mobile.com
+  job_title: Associate RAN Engineer
+  dates: June 2018 - February 2019
+  quote: >
+   Offering consumers a better home internet solution.
+  description: | # this will include new lines to allow paragraphs
+   • Create and automate company-wide customer scoring system using Alteryx and Python to rank over 40
+   million customers for new product offerings:
+   
+   &emsp;&emsp;&emsp;&emsp; &mdash; Clean and combine data from multiple sources
+   
+   &emsp;&emsp;&emsp;&emsp; &mdash; Use machine learning to determine customer locations
+   
+   &emsp;&emsp;&emsp;&emsp; &mdash; Coordinate with other departments to determine most profitable target customers
+   
+   • NPPI All Star of the Month – November 2018

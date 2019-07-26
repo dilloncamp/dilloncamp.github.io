@@ -1,0 +1,20 @@
+- layout: leftskills
+  company: Machine Learning
+  description: | # this will include new lines to allow paragraphs
+    XGBoost, Random Forest, Neural Networks, Naïve Bayes, Logistic Regression, Support Vector Machines (SVM), K-means clustering, Principal Component Analysis (PCA), Natural Language Processing (NLP), etc.
+- layout: leftskills
+  company: Big Data
+  description: | # this will include new lines to allow paragraphs
+   Spark, Kafka, Google Compute, Azure, Storm, NiFi, MiNiFi, Metron, Kibana, Elasticsearch
+- layout: leftskills
+  company: Programming Languages
+  description: | # this will include new lines to allow paragraphs
+   Python, R, Java, SQL, Matlab/Octave, some Javascript
+- layout: leftskills
+  company: Data Analysis/Visualization
+  description: | # this will include new lines to allow paragraphs
+   Tableau, Alteryx, Matplotlib, Pandas, Seaborn, ggplot2, MapInfo
+- layout: leftskills
+  company: Monitoring
+  description: | # this will include new lines to allow paragraphs
+   Grafana, Prometheus DB

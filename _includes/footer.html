@@ -1,0 +1,11 @@
+<div class="container footer-container">
+  <p>
+    &copy;{{site.year}} {{ site.name | escape }}
+    {%- if site.footer_show_email -%}
+      - <a href="mailto:{{ site.email }}" target="_blank">{{ site.email }}</a>
+	{%- endif -%}
+    {%- if site.footer_show_references -%}
+      &nbsp;- References on request
+    {%- endif -%}
+  </p>
+</div>

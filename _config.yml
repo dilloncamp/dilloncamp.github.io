@@ -1,56 +1,87 @@
-# Site settings
-title: "Dillon Camp"
-description: "Dillon Camp's personal webpage and resume"
+# Site
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+site.certificates_title: Certifications
+
+# Personal info
+name: Dillon Camp
+title: Data Scientist and Cybersecurity Engineer
+email: 
+phone: 
+website: https://www.dilloncamp.com
+year: 2019
+
+#SEO
+description: Dillon Camp's website and resume. Dillon is a Data Scientist and Cybersecurity engineer at T-Mobile.
+
+# Social links
+twitter_username: 
+github_username:  dilloncamp
+dribbble_username: 
+facebook_username: 
+flickr_username: 
+instagram_username: 
+linkedin_username: dillon-camp
+xing_username: 
+pinterest_username: 
+youtube_username: 
+googleplus_username: 
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: images/screenshot.png
+about_content: | # this will include new lines to allow paragraphs
+  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+
+  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+    - Lists
+    - Tables
+    - Links
+    - Images
+
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
+# More Section
+# more_title: A Little More About Me #(Use this to override about more section title)
+#more_content: | # this will include new lines to allow paragraphs
+
+
+# Footer
+footer_show_references: false
+footer_show_email: false
 
 # Build settings
-markdown: kramdown
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+#Sitemap
+url: "http://127.0.0.1:4000"
+
 sass:
   sass_dir: _sass
   style: compressed
 
-# Resume settings
-resume_avatar:                  "false"
-resume_name:                    "Dillon Camp"
-resume_title:                   "Associate Engineer and Data Scientist at T-Mobile"
-resume_contact_email:           "https://www.linkedin.com/in/dillon-camp/"
-resume_contact_telephone:       "false"
-resume_contact_address:         "false"
-resume_header_contact_info: "false"
-resume_header_intro: "<p><br></p>"
+plugins:
+ - jekyll-seo-tag
+ - jekyll-sitemap
 
-# use "yes" to display the email contact button,
-# "no" to display an "I'm not looking for work" message,
-# or remove the resume_looking_for_work option entirely
-# to leave blank
-resume_looking_for_work:        "yes"
-
-# Decide which sections to use
-# comment out to hide
-resume_section_experience:      true
-resume_section_education:       true
-resume_section_projects:        true
-resume_section_skills:          true
-resume_section_recognition:     false
-resume_section_skills2:         true
-resume_section_links:           true
-resume_section_associations:    true
-# resume_section_interests:       true
-
-# Resume social links
-# uncomment the options you wish to display, and add your own URL
-resume_social_links:
-  resume_github_url:            "https://github.com/dilloncamp/"
-  #resume_twitter_url:           "http://twitter.com/jglovier"
-  #resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/dillon-camp/"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  #resume_website_url:           "http://www.dilloncamp.com"
-resume_print_social_links:      true
-
-# Design settings
-resume_theme:                   default
-
-# Note: when editing locally, remember to restart
-# your Jekyll server when you edit this file. Changes
-# to _config.yml are only recognized when the server starts
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]

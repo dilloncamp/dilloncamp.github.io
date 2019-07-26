@@ -1,62 +1,9 @@
-# Projects
-# uncomment the urls if you wish to display them, and add your own URL
-
-# donutfinder.io
-- project: Credit Card Fraud Detection in Python using Google Compute
-  #role: 
-  #duration:
-  url: "/projects/creditcard.html"
-  description: I use Python on a Google Compute virtual machine to analyze anonymized credit card transactions and successfully detect fraud with an F1 score of 85.68 and an accuracy of 99.96% (compared to a baseline accuracy of 99.83% when predicting that no transactions are fraudulent).
-
-
-# donutfinder.io
-- project: Natural Language Processing&colon; Indeed.com Text Classification Using R
-  #role: 
-  #duration:
-  url: "/projects/indeed.html"
-  description: Natural language processing (NLP) in R to classify Indeed.com job listings as Data Scientist or Data Analyst using Naive Bayes, KNN, Random Forest, LASSO, and Ridge Regression
-
-  # donutfinder.io
-- project: Supervised machine learning&colon; Use support vector machine to classify emails as ‘spam’ or ‘not’
-  #role: 
-  #duration:
-  url: "/projects/spam.html"
-  #description: Natural language processing (NLP) in R to classify Indeed.com job listings as Data Scientist or Data Analyst using Naive Bayes, KNN, Random Forest, LASSO, and Ridge Regression
-  
-  
-  
-# donutfinder.io
-- project: Unsupervised machine learning&colon; K&ndash;means clustering image compression
-  #role: 
-  #duration:
-  url: "/projects/kmeans.html"
-  #description: Natural language processing (NLP) in R to classify Indeed.com job listings as Data Scientist or Data Analyst using Naive Bayes, KNN, Random Forest, LASSO, and Ridge Regression
-  
-  
-# donutfinder.io
-- project: Dimensionality reduction&colon; Principal component analysis (PCA) image compression
-  #role: 
-  #duration:
-  url: "/projects/pca.html"
-  #description: Natural language processing (NLP) in R to classify Indeed.com job listings as Data Scientist or Data Analyst using Naive Bayes, KNN, Random Forest, LASSO, and Ridge Regression
-  
-#Springfield Donut Eater's User Group
-- project: Where's Waldo?
-  #role: 
-  #duration:
-  #url: "#"
-  description: Image classification in Python with Keras using convolutional neural network (CNN) and transfer learning to find Waldo
-  
-#Springfield Donut Eater's User Group
-- project: CopyChat
-  #role: 
-  #duration:
-  #url: "#"
-  description: Custom Snapchat filter iOS app – use Python, dlib, and OpenCV to detect facial landmarks
-  
-#Springfield Donut Eater's User Group
-- project: What are my options?
-  #role: 
-  #duration:
-  #url: "#"
-  description: Options price prediction and arbitrage using Python and scikit-learn
+# Project template
+- layout: top-middle
+  name: Credit Card Fraud Detection
+  link: http://127.0.0.1:4000/projects/credit-card.html
+  github: dilloncamp/creditcard
+  quote: >
+    Detecting Credit Card Fraud with Cloud Computing
+  description: | # this will include new lines to allow paragraphs
+    I use Python on a Google Compute virtual machine to analyze anonymized credit card transactions and successfully detect fraud with an F1 score of 85.68 and an accuracy of 99.96% (compared to a baseline accuracy of 99.83% when predicting that no transactions are fraudulent).
