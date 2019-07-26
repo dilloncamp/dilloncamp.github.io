@@ -1,7 +1,7 @@
 # Project template
 - layout: top-middle
   name: Credit Card Fraud Detection
-  link: http://127.0.0.1:4000/projects/credit-card.html
+  link: https://dilloncamp.com/projects/credit-card.html
   github: dilloncamp/creditcard
   quote: >
     Detecting Credit Card Fraud with Cloud Computing
