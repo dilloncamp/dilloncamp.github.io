@@ -63,7 +63,7 @@ footer_show_email: false
 # remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
 #Sitemap
-url: "http://127.0.0.1:4000"
+url: "https://dilloncamp.com"
 
 sass:
   sass_dir: _sass
