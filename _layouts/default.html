@@ -22,6 +22,10 @@
         {%- include more.html -%}
       {%- endif -%}
 
+      {%- if site.data.patent.size > 0 -%}
+        {%- include patent.html -%}
+      {%- endif -%}
+
       {%- if site.data.certificates.size > 0 -%}
         {%- include certificates.html -%}
       {%- endif -%}

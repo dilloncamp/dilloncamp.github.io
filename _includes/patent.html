@@ -1,0 +1,6 @@
+<div class="container patent-container">
+  <h3>{{ site.patent_title | default: "Patents" }}</h3>
+  {% for patent in site.data.patent %}
+    {% include {{ experience.layout | default: 'left' | append: ".html" }} item=patent %}
+  {% endfor %}
+</div>

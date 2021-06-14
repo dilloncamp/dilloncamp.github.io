@@ -2,7 +2,9 @@
 repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
-site.certificates_title: Certifications
+certificates_title: Certifications
+about_profile_image: images/profile.JPG
+
 
 # Personal info
 name: Dillon Camp
@@ -32,14 +34,14 @@ googleplus_username:
 # About Section
 # about_title: About Me (Use this to override about section title)
 #about_profile_image: images/screenshot.png
-about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+#about_content: | # this will include new lines to allow paragraphs
+#  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
+#  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+#    - Lists
+#    - Tables
+#    - Links
+#    - Images
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -81,6 +83,7 @@ exclude : [
   "vendor/bundle/",
   "vendor/cache/",
   "vendor/gems/",
+    "vendor/ruby/",
   "vendor/ruby/",
   "lib/",
   "scripts/",

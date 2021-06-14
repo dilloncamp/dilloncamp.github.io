@@ -5,7 +5,7 @@
 - layout: leftskills
   company: Big Data
   description: | # this will include new lines to allow paragraphs
-   Spark, Kafka, Google Compute, Azure, Storm, NiFi, MiNiFi, Metron, Kibana, Elasticsearch
+   Splunk, Spark, Kafka, Google Compute, Azure, Storm, NiFi, MiNiFi, Metron, Kibana, Elasticsearch
 - layout: leftskills
   company: Programming Languages
   description: | # this will include new lines to allow paragraphs
@@ -17,4 +17,4 @@
 - layout: leftskills
   company: Monitoring
   description: | # this will include new lines to allow paragraphs
-   Grafana, Prometheus DB
+   Grafana, Prometheus DB, PagerDuty

@@ -6,14 +6,22 @@
   quote: >
    Solving cybersecurity problems by implementing innovative machine-learning and data science techniques.
   description: | # this will include new lines to allow paragraphs
-    Collaborate to create and maintain Cybersecurity Data Platform – revolutionary platform for logging and responding to security events:
+    -- Collaborate to create and maintain Cybersecurity Data Platform – revolutionary platform for logging and responding to security events:
     
     - Reduce security event search time from weeks to minutes
     - Lead log ingestion and create data flows using NiFi and MiNiFi
+    - Mentor coworkers and delegate ingestion tasks
     - Implement machine learning to cluster events and identify threats
     - Enrich existing data to make it better (feature engineering)    
     - Create monitoring using Grafana, Prometheus, and Pager Duty
-    - Create Slack chatbot to aid in monitoring    
+    - Create Slack chatbot to aid in monitoring
+    
+    -- Create AI log parser that automatically parses security event logs using machine learning and natural language processing
+    
+    -- Develop single pane of glass search which cuts incident response time by 50% by enhancing all security events with username, server/computer, and Active Directory domain information
+    
+    -- Enable 2500 IDS/IPS signatures by creating a vulnerability scan dashboard in Splunk to intelligently determine which signatures to deploy
+
 
 - layout: leftexperience
   company: T-Mobile
