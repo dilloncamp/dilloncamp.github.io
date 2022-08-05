@@ -1,17 +1,35 @@
 - layout: leftexperience
+  company: Anvilogic
+  link: anvilogic.com
+  job_title: Data DevOps Engineer
+  dates: August 2022 - Present
+  quote: >
+   Data DevOps Engineer at Anvilogic focused on building robust data pipelines
+  description: | # this will include new lines to allow paragraphs
+
+    -- Ingest and parse customer security logs
+    
+    -- Work with Threat team to create new security alerts
+    
+
+- layout: leftexperience
   company: AttackIQ
   link: attackiq.com
   job_title: Security Engineer
-  dates: October 2021 - Present
+  dates: October 2021 - July 2022
   quote: >
    Security Engineer at AttackIQ focused on customer success
   description: | # this will include new lines to allow paragraphs
-
-    -- Develop new product features
+    -- Develop new product capabilities:
     
-    -- Create custom attack simulations
+    - Tagging system in Django to support easy model tagging
+    - Logging capability for nested scripts in Python
     
-    -- Proactively identify and solve customer issues
+    -- Identified at risk customers by creating an extensive business intelligence dashboard in Redash to highlight product use and pain points - presented findings and dashboard at company all hands
+    
+    -- Created cyber attack simulations of advanced persistent threat actors through replicating attack behaviors targeting specific nation states
+    
+    -- Configured Splunk, Palo Alto Panorama, CrowdStrike, and other EDRs to detect malicious attacks and malware
     
 
 - layout: leftexperience
