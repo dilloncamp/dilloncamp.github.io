@@ -1,10 +1,15 @@
 # Site
 repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+favicon: images/favicon.ico
 
 certificates_title: Certifications
 about_profile_image: images/profile.JPG
 
+# Content configuration version
+version: 1
+
+# Dark Mode (true/false/never)
+darkmode: true
 
 # Personal info
 name: Dillon Camp
@@ -12,10 +17,10 @@ title: Cybersecurity Engineer
 email: 
 phone: 
 website: https://www.dilloncamp.com
-year: 2022
+year: 2023
 
 #SEO
-description: Dillon Camp's website and resume. Dillon is a Cybersecurity engineer at AttackIQ.
+description: Dillon Camp's website and resume. Dillon is a Cybersecurity engineer at Anvilogic.
 google_analytics: UA-144543665-1
 
 # Social links
@@ -83,9 +88,9 @@ exclude : [
   "vendor/bundle/",
   "vendor/cache/",
   "vendor/gems/",
-    "vendor/ruby/",
   "vendor/ruby/",
   "lib/",
   "scripts/",
   "docker-compose.yml",
   ]
+

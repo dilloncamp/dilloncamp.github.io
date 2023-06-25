@@ -4,12 +4,12 @@
   job_title: Data DevOps Engineer
   dates: August 2022 - Present
   quote: >
-   Data DevOps Engineer at Anvilogic focused on building robust data pipelines
+   Data DevOps Engineer at Anvilogic focused on building new product features
   description: | # this will include new lines to allow paragraphs
-
-    -- Ingest and parse customer security logs
+    -- Architect, design, and develop new core product feature - Raw Data Pipeline:
     
-    -- Work with Threat team to create new security alerts
+    - Leverage Python and AWS infrastructure (API Gateway, Lambda functions, S3, IAM) to automatically ingest customers' raw data from multiple sources into Snowflake
+    - Empower customers to easily build powerful detections across multiple datasets
     
 
 - layout: leftexperience

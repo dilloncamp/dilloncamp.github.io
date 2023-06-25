@@ -1,6 +1,7 @@
 @import "base";
 @import "button";
 @import "type";
+@import "dark";
 
 ul.icons a:hover {
   background: rgba(0, 0, 0, 0.025);
@@ -43,6 +44,17 @@ ul.icons a {
 @media screen and (max-width: 768px) {
   .icons {
     text-align: center;
+  }
+}
+
+.dark {
+  .icons i {
+    background: none;
+    color: #222;
+  }
+
+  .icons a:hover i {
+    color: #e6e6e6;
   }
 }
 
