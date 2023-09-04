@@ -9,7 +9,7 @@ about_profile_image: images/profile.JPG
 version: 1
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Personal info
 name: Dillon Camp
