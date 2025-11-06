@@ -3,7 +3,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 favicon: images/favicon.ico
 
 certificates_title: Certifications
-about_profile_image: images/profile.JPG
+about_profile_image:
 
 # Content configuration version
 version: 1
@@ -16,7 +16,7 @@ name: Dillon Camp
 title:
 email: 
 phone: 
-website: https://www.dilloncamp.com
+website:
 year: 2025
 
 #SEO
