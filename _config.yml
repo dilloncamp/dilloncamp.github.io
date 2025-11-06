@@ -13,19 +13,19 @@ darkmode: false
 
 # Personal info
 name: Dillon Camp
-title: Cybersecurity Engineer
+title:
 email: 
 phone: 
 website: https://www.dilloncamp.com
-year: 2023
+year: 2025
 
 #SEO
-description: Dillon Camp's website and resume. Dillon is a Cybersecurity engineer at Anvilogic.
-google_analytics: UA-144543665-1
+description: Dillon Camp's website.
+# google_analytics: UA-144543665-1
 
 # Social links
 twitter_username: 
-github_username:  dilloncamp
+github_username:
 dribbble_username: 
 facebook_username: 
 flickr_username: 
@@ -71,7 +71,7 @@ footer_show_email: false
 # remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
 #Sitemap
-url: "https://dilloncamp.com"
+url: "https://www.dilloncamp.com"
 
 sass:
   sass_dir: _sass
