@@ -1,6 +1,6 @@
 # Site
 repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-favicon: images/favicon.ico
+favicon: 
 
 certificates_title: Certifications
 about_profile_image:
@@ -12,15 +12,15 @@ version: 1
 darkmode: false
 
 # Personal info
-name: Dillon Camp
+name:
 title:
 email: 
 phone: 
 website:
-year: 2025
+year:
 
 #SEO
-description: Dillon Camp's website.
+description:
 # google_analytics: UA-144543665-1
 
 # Social links
@@ -30,7 +30,7 @@ dribbble_username:
 facebook_username: 
 flickr_username: 
 instagram_username: 
-linkedin_username: dillon-camp
+linkedin_username:
 xing_username: 
 pinterest_username: 
 youtube_username: 
@@ -71,7 +71,7 @@ footer_show_email: false
 # remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
 #Sitemap
-url: "https://www.dilloncamp.com"
+url:
 
 sass:
   sass_dir: _sass
